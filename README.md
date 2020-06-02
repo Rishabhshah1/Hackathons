@@ -4,12 +4,9 @@ This repository will contain my approaches for various hackathons/competitions I
 
 # Kaggle
 
-1. Astro Analytics Techsoc IITM
-2. Titanic : Machine Learning from Disaster (Though you will get lot more cooler solutions on Kaggle itself :) ).
-3. Digit Recognizer
+[Rishabh Shah](https://www.kaggle.com/rishabhshah1)
 
 # Analytics Vidhya
 
-1. Janata Hack
-2. Face Counting Challenge
-3. ML for Banking
+1. ML for Banking
+2. ML for IoT
