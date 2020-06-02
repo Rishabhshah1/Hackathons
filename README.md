@@ -1,6 +1,6 @@
 # Hackathons
 
-This repository contains my approaches for various hackathons/competitions I took part on Kaggle and Analytics Vidhya.
+This repository will contain my approaches for various hackathons/competitions I took part on Kaggle and Analytics Vidhya.
 
 # Kaggle
 
